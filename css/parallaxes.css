@@ -24,7 +24,8 @@ color:#ffffff;
 }
 
 .apicast {
-background: url(../img/api-clouds.jpg) 0px 0px;
+/*background: url(../img/api-clouds.jpg) 0px 0px;*/
+  background: url(../img/apicast-clouds.png) 0px 0px;
 }
 
 #bars1,
@@ -34,13 +35,13 @@ background: url(../img/api-clouds.jpg) 0px 0px;
 #bars5 {
 background-color: #86a333;
 margin-bottom: 25px;
-height: 20px;
+height: 30px;
 }
 
 .ampersand {
 background: url(../img/dash.gif) 50% 50% repeat-y;
 vertical-align:middle;
-padding:110px 5px;
+padding:170px 5px;
 }
 
 .ampersand img {

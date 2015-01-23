@@ -371,6 +371,7 @@ header {
   }
 
 .gradient {
+  color:#ffffff;
   background: rgba(215,86,0,1);
   background: -moz-linear-gradient(-45deg, rgba(215,86,0,1) 0%, rgba(255,113,19,1) 81%, rgba(255,113,19,1) 100%);
   background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(215,86,0,1)), color-stop(81%, rgba(255,113,19,1)), color-stop(100%, rgba(255,113,19,1)));
@@ -509,6 +510,20 @@ img.team {
   margin:0 auto;
   } 
 
+.rightside {
+  margin-right:0px;
+  padding-right:0px;
+  }
+
+.leftside {
+  margin-left:0px;
+  padding-right:0px;
+  }
+
+img.prod {
+  display:inline-block;
+  width:100px;
+  }  
 
 /*=====================================================================================
 ================================* PAGES *==============================================
@@ -768,7 +783,7 @@ width: 100%;
   }
 
 /* ================ Features page styles =================== */
-.nav-pills > li.active > a,
+/*.nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   background-color: #10a0d2;
@@ -793,7 +808,7 @@ width: 100%;
   padding-top: 10px;
   padding-bottom: 10px;
   }
-
+*/
 
 /* ================ Contact Us page styles =================== */
 
